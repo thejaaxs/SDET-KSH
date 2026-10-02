@@ -32,7 +32,7 @@ function printName(name, lastName) {
     console.log(name + ' ' + lastName)
 }
 
-printName("Keerthan", "Marathe")
+printName("Patrick", "D'souza")
 
 // Function With Return !
 
