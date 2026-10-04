@@ -32,3 +32,4 @@ test("has title name", async ({ page }) => {
 
 // Exploring the Playwright UI - Show Browser !
 // In Ui Made, the Browser will allow you to navigate in the testing side 
+// npx playwright test --ui for debugging deeper
